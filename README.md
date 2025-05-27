@@ -7,7 +7,7 @@ While continuing my IT career, I'm also pursuing a path in web development. I’
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://xxemat20xx.github.io/Homepage/](https://xxemat20xx.github.io/Homepage/)
+- 👨‍💻 All of my projects are available at [https://xxemat20xx.github.io/Homepage/](https://xxemat20xx.github.io/RTS-Portfolio/)
 
 - 📫 How to reach me **emat5252@gmail.com**
 
