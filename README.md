@@ -5,7 +5,7 @@ Alongside my IT experience, I also have a strong background in graphic design. I
 
 While continuing my IT career, I'm also pursuing a path in web development. I’m currently focused on building a strong foundation in HTML, CSS, and JavaScript, and I'm actively learning React.js to create dynamic, interactive user interfaces. My goal is to combine my technical background, creative design skills, and passion for development to build modern, responsive, and visually engaging web applications.</p>
 
-- 🌱 I’m currently learning **React JS and SQL**
+- 🌱 I’m currently learning **React JS, SQL and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://xxemat20xx.github.io/Homepage/](https://xxemat20xx.github.io/RTS-Portfolio/)
 
