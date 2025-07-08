@@ -10,7 +10,7 @@ Alongside my IT experience, I also have a background in graphic design. I'm skil
 While continuing my IT career, I'm focused on building a solid foundation in HTML, CSS, and JavaScript. I'm actively learning React.js and other modern technologies to build dynamic, responsive, and visually engaging web applications.
 </p>
 
-- 🌱 I’m currently learning **React.js, SQL, and Node.js**
+- 🌱 I’m currently learning **MERN and PERN**
 - 👨‍💻 All of my projects are available at: [RTS Portfolio](https://xxemat20xx.github.io/RTS-Portfolio/)
 - 📫 Reach me at: **emat5252@gmail.com**
 
