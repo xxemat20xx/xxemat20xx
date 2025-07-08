@@ -11,7 +11,7 @@ While continuing my IT career, I'm focused on building a solid foundation in HTM
 </p>
 
 - 🌱 I’m currently learning **MERN and PERN**
-- 👨‍💻 All of my projects are available at: [RTS Portfolio](https://xxemat20xx.github.io/RTS-Portfolio/)
+- 👨‍💻 All of my projects are available at: <a href="https://xxemat20xx.github.io/RTS-Portfolio/">RTS Portfolio</a>
 - 📫 Reach me at: **emat5252@gmail.com**
 
 ---
