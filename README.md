@@ -7,7 +7,7 @@ Currently, I work in a Command Center role, monitoring systems, coordinating inc
 
 Alongside my IT experience, I also have a background in graphic design. I'm skilled in Adobe Creative Suite—especially Photoshop and Illustrator—and have worked on various design projects including vector art, digital collages, marketing materials, and social media content. This creative skillset enhances my approach to web development, particularly in UI/UX design and visual storytelling.
 
-While continuing my IT career, I'm focused on building a solid foundation in HTML, CSS, and JavaScript. I'm actively learning React.js and other modern technologies to build dynamic, responsive, and visually engaging web applications.
+While continuing my IT career, I'm focused on building a solid foundation in HTML, CSS, JavaScript, and the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). I'm actively learning React.js and other modern technologies to build dynamic, responsive, and visually engaging web applications.
 </p>
 
 - 🌱 I’m currently learning **MERN and PERN**
@@ -24,10 +24,14 @@ While continuing my IT career, I'm focused on building a solid foundation in HTM
 </p>
 
 ---
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -40,7 +44,6 @@ While continuing my IT career, I'm focused on building a solid foundation in HTM
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
 </p>
-
 
 ---
 
