@@ -10,7 +10,7 @@ Alongside my IT experience, I also have a background in graphic design. I'm skil
 While continuing my IT career, I'm focused on building a solid foundation in HTML, CSS, JavaScript, and the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). I'm actively learning React.js and other modern technologies to build dynamic, responsive, and visually engaging web applications.
 </p>
 
-- 🌱 I’m currently learning **MERN and PERN**
+- 🌱 I’m currently learning **MERN and PERN Stack**
 - 👨‍💻 All of my projects are available at: <a href="https://xxemat20xx.github.io/RTS-Portfolio/" target="_blank">RTS Portfolio</a>
 - 📫 Reach me at: **emat5252@gmail.com**
 
