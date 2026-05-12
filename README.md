@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Raymart S.</h1>
+<h1 align="left">Hi 👋, I'm Raymart</h1>
 
 <p align="left">
 An experienced IT professional currently transitioning into web development. I have a strong background in the IT industry, having worked in roles such as Service Desk and IT Support, where I developed excellent troubleshooting, problem-solving, and customer service skills.
