@@ -7,7 +7,7 @@ Currently, I work in a Command Center role, monitoring systems, coordinating inc
 
 Alongside my IT experience, I also have a background in graphic design. I'm skilled in Adobe Creative Suite—especially Photoshop and Illustrator—and have worked on various design projects including vector art, digital collages, marketing materials, and social media content. This creative skillset enhances my approach to web development, particularly in UI/UX design and visual storytelling.
 
-While continuing my IT career, I'm focused on building a solid foundation in HTML, CSS, JavaScript, and the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). I'm actively learning React.js and other modern technologies to build dynamic, responsive, and visually engaging web applications.
+While continuing my IT career, I'm focused on building a solid foundation in HTML, CSS, JavaScript, and the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). I'm actively learning React, Typescript and other modern technologies to build dynamic, responsive, and visually engaging web applications.
 </p>
 
 - 🌱 I’m currently learning **MERN Stack**
